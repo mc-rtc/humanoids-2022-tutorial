@@ -2,7 +2,7 @@ title: mc_rtc – Humanoids 2022 Tutorial
 author: Pierre Gergondet
 description: >- # this means to ignore newlines until "baseurl:"
   General information about the mc_rtc tutorial at <a href="https://www.humanoids2022.org/">Humanoids 2022</a>
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/humanoids-2022-tutorial" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 theme: minima
