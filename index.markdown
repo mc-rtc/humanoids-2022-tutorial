@@ -4,7 +4,7 @@ layout: page
 
 ### Overview
 
-This webpage gathers information about the upcoming Humanoids 2022 workshop about mc\_rtc.
+This webpage gathers information about the upcoming Humanoids 2022 tutorial about mc\_rtc.
 
 In this tutorial, we will introduce mc\_rtc, the new features introduced in the 2.0 version and provide an interactive class where we will program a virtual humanoid robot to walk and use visual servoing.
 
