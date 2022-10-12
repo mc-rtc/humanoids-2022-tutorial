@@ -9,12 +9,9 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | markdownify }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
+            {%- capture organizers -%}{%- include organizers.markdown -%}{%- endcapture -%}
+            {{ organizers | markdownify }}
+          </li>
         </ul>
       </div>
 

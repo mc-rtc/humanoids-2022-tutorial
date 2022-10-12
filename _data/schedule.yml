@@ -1,0 +1,39 @@
+- time: 09:00 - 09:30
+  talk: Introduction
+  comments: >-
+    Theory of task-space QP control and history of mc_rtc<br/>
+    General introduction to the framework and the objectives for the day
+- time: 09:30 - 10:00
+  talk: What's new in 2.0?
+  comments: >-
+    Introduction to the new features of mc_rtc 2.0
+- time: 10:00 - 10:30
+  talk: Getting started
+  comments: >-
+    Writing our first controller and working with mc_rtc GUI
+- time: 10:30 - 11:00
+  talk: <em>Coffee break</em>
+- time: 11:00 - 12:00
+  talk: FSM programming
+  comments: >-
+    Introduction to FSM programming in mc_rtc
+- time: 12:00 - 13:30
+  talk: <em>Lunch break</em>
+- time: 13:30 - 14:30
+  talk: Visual servoing
+  comments: >-
+    Using computer vision to perform robotic tasks within mc_rtc
+- time: 14:30 - 15:30
+  talk: Stabilization and walking
+  comments: >-
+    mc_rtc components for stabilizing a biped robot and allowing it to walk in its environment
+- time: 15:30 - 16:00
+  talk: <em>Cofee break</em>
+- time: 16:00 - 17:00
+  talk: Going further and discussions
+  comments: >-
+    Introduce the software architecture of two complex demonstrators:
+    <ul>
+      <li>COMANOID industrial demonstration</li>
+      <li>ANA Avatar XPrize</li>
+    </ul>
