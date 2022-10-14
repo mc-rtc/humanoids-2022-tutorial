@@ -30,3 +30,9 @@ TBA
 {%- capture organizers -%}{%- include organizers.markdown -%}{%- endcapture -%}
 {{ organizers | markdownify }}
 </p>
+
+### Sponsors
+
+The work presented in this tutorial has been partially supported by the Research Project I.AM. through the European Union H2020 program under GA 871899.
+
+<img src="{{site.baseurl}}/assets/logos/iam.png" alt="European Union H2020 Research Project I.AM. logo" />
