@@ -260,3 +260,27 @@
     }
   }
 }
+
+.logos-row
+{
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 50px;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.logos-col
+{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  width: 50%;
+  margin: auto;
+
+  img {
+    margin: auto;
+  }
+}

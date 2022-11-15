@@ -35,11 +35,17 @@ Room B3 at the Okinawa Convention Center. See [Humanoids 2022](https://www.human
 
 The work presented in this tutorial has been partially supported by the Research Project I.AM. through the European Union H2020 program under GA 871899.
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 50%;">
+<div class="logos-row">
+  <div class="logos-col">
     <img src="{{site.baseurl}}/assets/logos/iam.png" alt="European Union H2020 Research Project I.AM. logo" />
   </div>
-  <div style="flex: 50%;">
+  <div class="logos-col">
     <img src="{{site.baseurl}}/assets/logos/michelin.svg" alt="Michelin Research logo" />
+  </div>
+  <div class="logos-col">
+    <img style="height: 100px;" src="{{site.baseurl}}/assets/logos/cnrs.svg" alt="Centre National de la Recherche Scientifique logo" />
+  </div>
+  <div class="logos-col">
+    <img src="{{site.baseurl}}/assets/logos/aist.png" alt="National Institute of Advanced Industrial Science and Technology logo" />
   </div>
 </div>
