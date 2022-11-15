@@ -1,4 +1,4 @@
 - Pierre Gergondet, [CNRS-AIST JRL](https://unit.aist.go.jp/jrl-22022/index_en.html)<br/>
 - Arnaud Tanguy, [CNRS-UM LIRMM](https://www.lirmm.fr/lirmm-en/)<br/>
 - Fumio Kanehiro, [CNRS-AIST JRL](https://unit.aist.go.jp/jrl-22022/index_en.html)<br/>
-- Abderrahmane Kheddar, [CNRS-UM LIRMM](https://www.lirmm.fr/lirmm-en/) and [CNRS-AIST JRL](https://unit.aist.go.jp/jrl-22022/index_en.html)
+- Abderrahmane Kheddar, [CNRS-AIST JRL](https://unit.aist.go.jp/jrl-22022/index_en.html) and [CNRS-UM LIRMM](https://www.lirmm.fr/lirmm-en/)
