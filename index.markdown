@@ -22,7 +22,7 @@ The tutorial will be held on November 28, 2022. From 9 AM to 5 PM, Japan time (G
 
 ### Where
 
-TBA
+Room B3 at the Okinawa Convention Center. See [Humanoids 2022](https://www.humanoids2022.org/general-information/venue) website for more information.
 
 ### Organizers
 
