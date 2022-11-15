@@ -35,4 +35,11 @@ TBA
 
 The work presented in this tutorial has been partially supported by the Research Project I.AM. through the European Union H2020 program under GA 871899.
 
-<img src="{{site.baseurl}}/assets/logos/iam.png" alt="European Union H2020 Research Project I.AM. logo" />
+<div style="display: flex; align-items: center;">
+  <div style="flex: 50%;">
+    <img src="{{site.baseurl}}/assets/logos/iam.png" alt="European Union H2020 Research Project I.AM. logo" />
+  </div>
+  <div style="flex: 50%;">
+    <img src="{{site.baseurl}}/assets/logos/michelin.svg" alt="Michelin Research logo" />
+  </div>
+</div>
